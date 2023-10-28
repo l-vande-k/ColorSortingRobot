@@ -21,7 +21,7 @@ Components:
     - Datasheet: https://www.ti.com/lit/ds/symlink/l293d.pdf?ts=1698445738188&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FL293D
 - Pull up resistors (1kOhm)
 - Elegoo jumper wires and dupont wires
-- 9V power supply
+- NiMH 8.4V 1500 mAh Rechargable Power Supply
 
 Purpose Statement:
 The goals for this robotics lab task were to explore the capabilities of the Arduino Uno board, construct an external circuit that supports the peripheral devices, ad interpret analog & digital signals. 
