@@ -34,3 +34,5 @@ The arm rotation motor is controlled by a simple H-bridge circuit. Motor speed i
 The DC compressor is wired high to 9V so that is is continually creating pressure. The pressure circuit is controlled using two solenoids and three piston cylinders. The solenoids are controlled by DC motor controllers/transistors. When a high signal is output from the Arduino from the respective solenoid pin, the solenoid opens the desired pneumatic valve. 
 
 The fischertechnik Optical Color Sensor emits a red light which is reflected off of the objects to be sorted. The light is measured by a phototransistor and output as an analog value. This value is interpreted as "red", "white", or "blue" based upon experiment results.
+
+Please reference the .ino file for information on how the code functions.
