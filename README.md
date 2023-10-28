@@ -5,11 +5,11 @@ YouTube video showing successful operation:
 https://youtu.be/AQcxmfMBEFc
 
 Components:
-- Brushed 9V DC Electric Motor to drive arm rotation
+- Brushed 9V DC Electric Motor
 - DC Compressor
 - 2 Digitally Controlled 9V Solenoid Valves
 - 2 DC Motor controllers/Transistors used to control solenoids
-- Rotory Encoder
+- Rotory Encoder (limit switch and 4-tooth gear)
 - Limit Switch
 - Tandem Piston-cylinders to convert positive pressure to negative pressure
 - Piston-cylinder to lower arm
