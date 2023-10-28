@@ -1,4 +1,11 @@
-// ----- pin constants -----
+/*
+This program was creeated for an Intermediate Programming Lab at Kennesaw State University.
+Author: Levi Vande Kerkhoff
+Date: 10/10/2023
+*/
+
+
+// ----- pin number constants -----
 
 const int rotaryEncoder = 2; // this is attach interrupt 0
 const int limitSwitch = 3;
